@@ -1,0 +1,24 @@
+git commands
+
+cd into workspace/directory
+
+ls
+
+la -la
+
+git init
+
+git status
+
+git config -"user.email"
+git config -"user.name"
+
+git add .
+
+git commit -m "initial commit"
+
+git status
+
+git clone 
+
+git push origin main
