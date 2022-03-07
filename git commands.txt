@@ -10,8 +10,8 @@ git init
 
 git status
 
-git config -user.email ""
-git config -user.name ""
+git config -- user.email ""
+git config -- user.name ""
 
 git add .
 
